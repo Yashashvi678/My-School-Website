@@ -23,7 +23,7 @@ body
 
 #contact
 {
- background-color: aqua;
+ background-color: blanchedalmond;
     color: crimson;
 }
 #virtualtour
@@ -44,4 +44,50 @@ body
     background-color: #000;
     width: 70px;
     margin: 8px auto;
+}
+
+#description
+{
+    color: black;
+    text-decoration-line: underline;
+}
+
+.achivements_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.achivements_head i
+{
+    float: right;
+}
+#achivement
+{
+    background-color: cornsilk;
+}
+#image
+{
+    height: 225px;
+}
+#achivement2
+{
+    background-color: cornsilk;
+}
+#image2
+{
+    height: 240px;
+}
+#achivements
+{
+    background-color: antiquewhite;
+}
+#campuslife
+{
+    background-color: oldlace;
+}
+#infrastructure
+{
+    background-color: beige;
 }
