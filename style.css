@@ -70,17 +70,13 @@ body
 #image
 {
     height: 225px;
-    width: 200px;
+    width:340px;
 }
 #achivement2
 {
     background-color: cornsilk;
 }
-#image2
-{
-    height: 240px;
-    width: 200;
-}
+
 #achivements
 {
     background-color: antiquewhite;
