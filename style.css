@@ -70,7 +70,7 @@ body
 #image
 {
     height: 225px;
-    width: 200;
+    width: 300;
 }
 #achivement2
 {
@@ -92,4 +92,24 @@ body
 #infrastructure
 {
     background-color: beige;
+}
+#image2
+{
+    height: 225px;
+    width: 300;
+}
+#image3
+{
+    height: 225px;
+    width: 300;
+}
+#image4
+{
+    height: 225px;
+    width: 300;
+}
+#image5
+{
+    height: 225px;
+    width: 300;
 }
