@@ -94,3 +94,61 @@ body
     height: 225px;
     width:225px;
 }
+.modal-content
+{
+    margin-top: 100px;
+}
+.img_modal
+{
+    display: inline-block;
+}
+.p_modal
+{
+    margin-top: 10px;
+}
+
+#indragandhi
+{
+    height: 300px;
+    width: 450px;
+}
+
+#alumnilist img
+{
+    height: 250px;
+}
+
+#alumnilist2
+{
+    width:  250px;
+}
+#alumnilist2 img
+{
+    width:  250px;
+}
+#Indira
+{
+    width: 400px;
+    height: 300px;
+}
+
+#alumnilist3
+{
+    width:  250px;
+}
+#alumnilist3 img
+{
+    width:  250px;
+}
+#alumni
+{
+    background-color: burlywood;
+}
+#alumnilist4
+{
+    width:  250px;
+}
+#alumnilist4 img
+{
+    width:  250px;
+}
